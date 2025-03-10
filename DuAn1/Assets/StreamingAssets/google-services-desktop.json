@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193216430449",
+    "project_id": "quizquest-e78b8",
+    "storage_bucket": "quizquest-e78b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193216430449:android:2befafebdc53e7b00c76d0",
+        "android_client_info": {
+          "package_name": "com.myduyencode.quizquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEl94CbKzK1ldeIpvPS8WIsNvOdtkHE0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
